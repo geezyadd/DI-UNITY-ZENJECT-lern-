@@ -8,7 +8,7 @@ namespace Assets.Common.Infrastucture
         public Transform StartPoint;
         public GameObject PrinterPrefab;
         public GameObject PrintIfKeyKode;
-        public GameObject Ground;
+        public GameObject Ground; 
         public override void InstallBindings()
         {
             PrinterServiceBinding();
