@@ -7,7 +7,7 @@ public class PrintEIfKeyKodeEEEE : MonoBehaviour
 {
     private PrintEeeeee PrintE;
     //[Inject] private PrintEeeeee PrintE; второй вариант(нужно уточнить норм или нет)
-
+    
     [Inject]
     private void Construct(PrintEeeeee print) 
     {
